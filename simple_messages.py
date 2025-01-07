@@ -14,3 +14,6 @@ print(list(incremented_array))
 
 name = "ada lovelace"
 print(f"{name.title()} - {name.upper()} - {name.lower()}")
+
+
+print(f"Length of the string is {len(name)}")
